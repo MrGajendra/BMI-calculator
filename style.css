@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: border-box;
+    font-family: sans-serif;
+}
+
+#main-title{
+    display: flex;
+    justify-content: center;
+}
+
+.mega-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    flex-direction: column;
+    
+}
+
+#answer{
+    font-size: 33px;
+    font-weight: bold;
+}
+
+
+
+#inputs{
+    margin-top: 20px;
+
+}
+
+#weight{
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+#height{
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+hr{
+    margin-top: 12px;
+}
+
